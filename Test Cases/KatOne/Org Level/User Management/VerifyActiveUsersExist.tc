@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyActiveUsersExist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34bb791a-13db-4bbe-8562-0d343c50601f</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.owner_mail</defaultValue>
+      <description></description>
+      <id>d8cf956f-fb96-47ca-ac59-0e017bc277dd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_pass</defaultValue>
+      <description></description>
+      <id>01248226-0103-4ff0-a10d-4f8bec4b6e2d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_orgId</defaultValue>
+      <description></description>
+      <id>1095c73a-ffd8-4684-8174-aaffdb32d6ca</id>
+      <masked>false</masked>
+      <name>orgId</name>
+   </variable>
+   <variable>
+      <defaultValue>'Invitation'</defaultValue>
+      <description></description>
+      <id>8e1f0ddb-f098-495d-9e70-7e4db596e0f3</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+</TestCaseEntity>

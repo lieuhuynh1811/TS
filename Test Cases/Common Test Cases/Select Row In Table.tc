@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Row In Table</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e313cf00-2299-4bf7-aee3-39219989a6c0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ff9751d-e8c0-45c1-8fcd-960605d7247d</id>
+      <masked>false</masked>
+      <name>xPathTable</name>
+   </variable>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>2ab97f00-526a-4f80-bfad-3328ba6a5c6f</id>
+      <masked>false</masked>
+      <name>email_list</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>3b624362-32f8-452b-8873-03eda863cf3d</id>
+      <masked>false</masked>
+      <name>columnIndex</name>
+   </variable>
+</TestCaseEntity>

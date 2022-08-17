@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Accept Invitation</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>9104fafb-c4f0-4449-b86c-15e0cf4b92a7</testSuiteGuid>
+   <testCaseLink>
+      <guid>36b4ef9e-0e8e-44bb-9e04-1d989e6e042e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/KatOne/Org Level/User Management/Accept Invitation</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a8e523b2-1af0-4477-ad7e-3ffa3f5d017b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Invitation</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a8e523b2-1af0-4477-ad7e-3ffa3f5d017b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Invitation</value>
+         <variableId>3b0c22e8-3c72-4ad3-8095-df26589969d8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8e523b2-1af0-4477-ad7e-3ffa3f5d017b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>72445be1-00d6-4de0-9fca-a54aca30f3d3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a8e523b2-1af0-4477-ad7e-3ffa3f5d017b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>e2ffc31d-521a-49fd-8540-b07e07b1728f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6d5c01fd-9012-432f-830e-678114dcbd06</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/KatOne/Org Level/User Management/VerifyActiveUsersExist</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d8cf956f-fb96-47ca-ac59-0e017bc277dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>01248226-0103-4ff0-a10d-4f8bec4b6e2d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1095c73a-ffd8-4684-8174-aaffdb32d6ca</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8e1f0ddb-f098-495d-9e70-7e4db596e0f3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

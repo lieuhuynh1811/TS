@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Distribute Sessions To Organization</name>
+   <tag></tag>
+   <elementGuidId>2d425ec7-e124-4f3b-a52a-db9fba3dabf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/p[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>daf33e87-be28-47d3-b664-97a36f60370c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2</value>
+      <webElementGuid>e66512c2-634f-4767-8d5c-e8fc8f5d387e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account-home</value>
+      <webElementGuid>71e82f6c-570c-4f5d-b7fa-1dadcf17dd72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distribute Sessions To Organization</value>
+      <webElementGuid>b3d55bec-a12b-40cb-a2df-d34c1ea5aa97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss135&quot;]/div[@class=&quot;jss153&quot;]/div[@class=&quot;jss154 MuiBox-root css-0&quot;]/div[@class=&quot;jss155 MuiBox-root css-0&quot;]/div[@class=&quot;jss169 MuiBox-root css-x4dmss&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 jss171 css-1xkwv0t&quot;]/div[@class=&quot;jss170 MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 jss174 css-1ems3uu&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2&quot;]</value>
+      <webElementGuid>2234c933-3def-4c08-a87d-854a8222bb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>63312cc4-2e9d-40ce-95f3-10f6964b1e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2</value>
+      <webElementGuid>d591011e-8a54-4606-971a-2e28755096a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account-home</value>
+      <webElementGuid>8a08fba1-d5be-443f-b0a8-12c4dec954ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distribute Sessions To Organization</value>
+      <webElementGuid>15d8e6c1-b8b1-4ae0-9a81-0dbe44d6cd0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss135&quot;]/div[@class=&quot;jss153&quot;]/div[@class=&quot;jss154 MuiBox-root css-0&quot;]/div[@class=&quot;jss155 MuiBox-root css-0&quot;]/div[@class=&quot;jss169 MuiBox-root css-x4dmss&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 jss171 css-1xkwv0t&quot;]/div[@class=&quot;jss170 MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 jss174 css-1ems3uu&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2&quot;]</value>
+      <webElementGuid>bd01acbb-5cb4-457a-abc4-5e1c746b83db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/p[4]/a</value>
+      <webElementGuid>a7027161-ba48-4ac6-b7a2-5395bcd8660e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Distribute Sessions To Organization')]</value>
+      <webElementGuid>79dde6b2-3b51-4ad1-b2fb-0826c6dbe0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribute Test Executions To Organization'])[1]/following::a[1]</value>
+      <webElementGuid>1eb6ce04-f45d-464b-9d53-4f2aa70cbc65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribute Licenses To Organization'])[1]/following::a[2]</value>
+      <webElementGuid>4f953031-5e8d-4435-a372-222009805e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribute Checkpoint Images To Organization'])[1]/preceding::a[1]</value>
+      <webElementGuid>1debbcdc-0fcf-4c21-93ee-2b0bdf13335a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe To Katalon products'])[1]/preceding::a[2]</value>
+      <webElementGuid>424c11ad-f5fd-47ad-a15e-cf1435a28733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Distribute Sessions To Organization']/parent::*</value>
+      <webElementGuid>67a8e675-725d-4332-85ba-8d430d25aac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/account-home')])[3]</value>
+      <webElementGuid>5918a50d-02a4-4977-8849-15ca0ab6111e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]/a</value>
+      <webElementGuid>22afba05-c846-4612-aa16-c23dfbaf824c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/account-home' and (text() = 'Distribute Sessions To Organization' or . = 'Distribute Sessions To Organization')]</value>
+      <webElementGuid>9e0d2238-44cb-43d9-8209-c95a55f148ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

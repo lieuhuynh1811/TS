@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>pro</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://my.katalon.com/'</initValue>
+      <name>k1_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://admin.katalon.com/'</initValue>
+      <name>TO_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'linh.phan@katalon.com'</initValue>
+      <name>owner_mail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Abcd@1234'</initValue>
+      <name>owner_pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'307339'</initValue>
+      <name>owner_orgId</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

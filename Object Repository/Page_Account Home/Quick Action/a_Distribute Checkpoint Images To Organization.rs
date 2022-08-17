@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Distribute Checkpoint Images To Organization</name>
+   <tag></tag>
+   <elementGuidId>c30b31b6-5877-4ef1-957b-a22faf104655</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/p[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a92e61e-1367-49af-9564-b294a9441cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2</value>
+      <webElementGuid>7bf6ae1b-7edb-4caa-af22-a97c5484ef05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account-home</value>
+      <webElementGuid>b0d2180c-6a49-49fc-8313-2456f3ebcef2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distribute Checkpoint Images To Organization</value>
+      <webElementGuid>28454ec3-0526-42ad-b11f-eddfd1bc4948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss135&quot;]/div[@class=&quot;jss153&quot;]/div[@class=&quot;jss154 MuiBox-root css-0&quot;]/div[@class=&quot;jss155 MuiBox-root css-0&quot;]/div[@class=&quot;jss169 MuiBox-root css-x4dmss&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 jss171 css-1xkwv0t&quot;]/div[@class=&quot;jss170 MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 jss174 css-1ems3uu&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2&quot;]</value>
+      <webElementGuid>e0d32857-ac25-45c3-a962-cbec1467606a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2d0101b-35af-4b28-8068-bde17aaf1035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2</value>
+      <webElementGuid>224d9adf-ce54-440e-a551-eee030c8b79d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account-home</value>
+      <webElementGuid>2bf9e0bb-151f-44aa-b2f9-f27eb2e3932a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distribute Checkpoint Images To Organization</value>
+      <webElementGuid>8baa8997-a24e-4a8d-b670-ee7187fbd86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss135&quot;]/div[@class=&quot;jss153&quot;]/div[@class=&quot;jss154 MuiBox-root css-0&quot;]/div[@class=&quot;jss155 MuiBox-root css-0&quot;]/div[@class=&quot;jss169 MuiBox-root css-x4dmss&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 jss171 css-1xkwv0t&quot;]/div[@class=&quot;jss170 MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 jss174 css-1ems3uu&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2&quot;]</value>
+      <webElementGuid>dd8166ad-b65b-46d8-baa0-9c91a0c89207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/p[5]/a</value>
+      <webElementGuid>27ad0fe4-eea6-4e0e-8be5-45f4065abb6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Distribute Checkpoint Images To Organization')]</value>
+      <webElementGuid>070dff6a-7512-4e6d-8cd3-3785f3ec9cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribute Sessions To Organization'])[1]/following::a[1]</value>
+      <webElementGuid>c8ab4343-cd01-42b3-a38a-0d7648c71ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribute Test Executions To Organization'])[1]/following::a[2]</value>
+      <webElementGuid>c0a61fd2-b6bd-49e4-be16-5b0f70e855f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe To Katalon products'])[1]/preceding::a[1]</value>
+      <webElementGuid>4b1bc4ba-b19f-4ced-815c-47f545b88620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite Users To Account'])[1]/preceding::a[2]</value>
+      <webElementGuid>b0bdd68c-4bea-4f75-a9b1-36065cafe324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Distribute Checkpoint Images To Organization']/parent::*</value>
+      <webElementGuid>81cb47a7-0010-4283-a473-88095e9b58a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/account-home')])[4]</value>
+      <webElementGuid>cd3f855f-239e-48c7-aa05-c03c9fb10fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[5]/a</value>
+      <webElementGuid>9da9f61e-0c72-4ea9-b9e7-5cd826078dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/account-home' and (text() = 'Distribute Checkpoint Images To Organization' or . = 'Distribute Checkpoint Images To Organization')]</value>
+      <webElementGuid>309f4f00-0037-4b2e-9916-c606ec74a066</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Revoke Invitation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b780acd-1a1b-4c72-aa03-802d3e91c65e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8cf956f-fb96-47ca-ac59-0e017bc277dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>01248226-0103-4ff0-a10d-4f8bec4b6e2d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1095c73a-ffd8-4684-8174-aaffdb32d6ca</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>636dbe47-596c-4323-b164-c66656f7b276</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8b2e050-31e6-4694-a134-1fc2dcc6710a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.owner_mail</defaultValue>
+      <description></description>
+      <id>d8cf956f-fb96-47ca-ac59-0e017bc277dd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_pass</defaultValue>
+      <description></description>
+      <id>01248226-0103-4ff0-a10d-4f8bec4b6e2d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'336373'</defaultValue>
+      <description></description>
+      <id>1095c73a-ffd8-4684-8174-aaffdb32d6ca</id>
+      <masked>false</masked>
+      <name>orgId</name>
+   </variable>
+   <variable>
+      <defaultValue>'Email List'</defaultValue>
+      <description></description>
+      <id>636dbe47-596c-4323-b164-c66656f7b276</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>['pgialinh.iuetv+a3@gmail.com', 'pgialinh.iuetv+a2@gmail.com']</defaultValue>
+      <description></description>
+      <id>b8b2e050-31e6-4694-a134-1fc2dcc6710a</id>
+      <masked>false</masked>
+      <name>emails</name>
+   </variable>
+</TestCaseEntity>

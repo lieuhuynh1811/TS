@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr</name>
+   <tag></tag>
+   <elementGuidId>f64c58c4-0ecc-42b6-8da4-430c3131637d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table/tbody/tr)[${index}]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@index = '${index}']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>${index}</value>
+      <webElementGuid>37f244bb-4ce8-4292-b8e3-d889e1fdd9da</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

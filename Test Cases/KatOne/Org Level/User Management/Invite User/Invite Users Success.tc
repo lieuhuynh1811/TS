@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invite Users Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8004005-548f-4fbd-8a4c-20f7559cd761</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.owner_mail</defaultValue>
+      <description></description>
+      <id>d8cf956f-fb96-47ca-ac59-0e017bc277dd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_pass</defaultValue>
+      <description></description>
+      <id>01248226-0103-4ff0-a10d-4f8bec4b6e2d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_orgId</defaultValue>
+      <description></description>
+      <id>1095c73a-ffd8-4684-8174-aaffdb32d6ca</id>
+      <masked>false</masked>
+      <name>orgId</name>
+   </variable>
+   <variable>
+      <defaultValue>'Invitation'</defaultValue>
+      <description></description>
+      <id>636dbe47-596c-4323-b164-c66656f7b276</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>[]</defaultValue>
+      <description></description>
+      <id>7c76a28d-ac37-48e2-80df-05386506c27e</id>
+      <masked>false</masked>
+      <name>licenses</name>
+   </variable>
+</TestCaseEntity>

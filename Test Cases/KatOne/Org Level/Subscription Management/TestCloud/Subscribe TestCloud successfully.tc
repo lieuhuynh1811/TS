@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Subscribe TestCloud successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f7e0e0a-a75b-40ce-86db-482fa01db736</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7dd160e9-3412-40b4-b85f-a8ee74b07ce9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Per user Auto'</defaultValue>
+      <description></description>
+      <id>7dd160e9-3412-40b4-b85f-a8ee74b07ce9</id>
+      <masked>false</masked>
+      <name>orgName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Accept Invitation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a71cadc2-62a3-4b04-b6fa-38b29202e252</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c7014eb-57c1-4ca8-a2cf-a24fa4dc7aa7</id>
+      <masked>false</masked>
+      <name>activate_link</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38786f2b-7501-4daa-b6e2-b17e437feeea</id>
+      <masked>false</masked>
+      <name>pending_email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e60c6a3-4120-44ae-80ba-c88d29a7bf7e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

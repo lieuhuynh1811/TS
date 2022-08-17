@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transfer Owner Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adabe8cc-fd60-444f-9f9d-b8ea7d47ef3f</testCaseGuid>
+   <variable>
+      <defaultValue>'pgialinh.iuetv+40@gmail.com'</defaultValue>
+      <description></description>
+      <id>d8cf956f-fb96-47ca-ac59-0e017bc277dd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_pass</defaultValue>
+      <description></description>
+      <id>01248226-0103-4ff0-a10d-4f8bec4b6e2d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_orgId</defaultValue>
+      <description></description>
+      <id>1095c73a-ffd8-4684-8174-aaffdb32d6ca</id>
+      <masked>false</masked>
+      <name>orgId</name>
+   </variable>
+   <variable>
+      <defaultValue>'pgialinh.iuetv+40@gmail.com'</defaultValue>
+      <description></description>
+      <id>94104f56-184c-47f1-9866-d8a7cd667cf0</id>
+      <masked>false</masked>
+      <name>newOwnerEmail</name>
+   </variable>
+</TestCaseEntity>

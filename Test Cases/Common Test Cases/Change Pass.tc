@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8a3d717-1f58-4c01-a634-8a10a49aebd1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>89b591b2-6761-45e0-94b3-e5a01394afc2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dbdc31c7-2d25-4b05-bb89-0c88e6c26b2b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c05666d0-6ae2-4f57-8afc-a147d64a1674</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>89b591b2-6761-45e0-94b3-e5a01394afc2</id>
+      <masked>false</masked>
+      <name>var_currentpassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dbdc31c7-2d25-4b05-bb89-0c88e6c26b2b</id>
+      <masked>false</masked>
+      <name>var_newpassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c05666d0-6ae2-4f57-8afc-a147d64a1674</id>
+      <masked>false</masked>
+      <name>var_confirmpassword</name>
+   </variable>
+</TestCaseEntity>

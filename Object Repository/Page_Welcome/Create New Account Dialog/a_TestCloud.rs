@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TestCloud</name>
+   <tag></tag>
+   <elementGuidId>367bd542-bfc5-4430-ac7b-a7d95c9662a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'TestCloud')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-mifb2i > div.MuiBox-root.css-182u9mc > p.MuiTypography-root.MuiTypography-body1.css-1u7kjwi > a.MuiTypography-root.MuiTypography-inherit.MuiLink-root.MuiLink-underlineHover.css-cv1oyu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3b6f69a-183e-4a8d-85df-60333a9b6014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-cv1oyu</value>
+      <webElementGuid>e1ac16ca-a12c-45ed-bafd-5e44684706c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://docs.katalon.com/docs/katalon-testcloud/overview</value>
+      <webElementGuid>c8986ce8-bf4e-4e29-98c1-175d2090a0f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TestCloud</value>
+      <webElementGuid>180c826b-7687-46f2-912b-6037fd5524cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiModal-root MuiDialog-root css-126xj0f&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm css-1pd02qz&quot;]/div[@class=&quot;MuiBox-root css-mifb2i&quot;]/div[@class=&quot;MuiBox-root css-182u9mc&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-1u7kjwi&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-cv1oyu&quot;]</value>
+      <webElementGuid>d019fef3-cbe9-4cfb-bead-00060011675b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TestCloud')]</value>
+      <webElementGuid>c4bece54-c65c-4236-9383-e47869740542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestOps Trial Plans'])[1]/following::a[1]</value>
+      <webElementGuid>0eb999c3-2be3-4411-abe0-03c3640b7c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin > Trial Request'])[1]/following::a[2]</value>
+      <webElementGuid>9a749bd0-7544-485f-99cd-3ec6488b78d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon packages'])[1]/preceding::a[1]</value>
+      <webElementGuid>03a8bfa2-3142-4fb0-a345-0993f378c8f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::a[2]</value>
+      <webElementGuid>47b9581e-61c1-44c2-8b3c-586ab3a8d28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TestCloud']/parent::*</value>
+      <webElementGuid>45124434-4033-4e50-aca2-8841a72e9aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://docs.katalon.com/docs/katalon-testcloud/overview')]</value>
+      <webElementGuid>3c9d195f-f825-4120-8612-66b07b0134ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/p[2]/a</value>
+      <webElementGuid>b2ade98d-1af0-4e34-8d3f-73b71f70cacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://docs.katalon.com/docs/katalon-testcloud/overview' and (text() = 'TestCloud' or . = 'TestCloud')]</value>
+      <webElementGuid>4917b2a3-13ef-42e1-9f7c-5d50c495b6e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

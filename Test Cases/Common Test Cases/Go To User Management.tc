@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Go To User Management</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3428dfae-eab8-4cea-abcc-6e1828da1e10</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ea83e9e-2b7b-4acb-808a-eae9b4d42435</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09b79199-6d77-446d-b287-2bb577e9df56</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e946c085-18fa-42c2-be37-13b754d3974a</id>
+      <masked>false</masked>
+      <name>orgId</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>185bfc72-547b-4588-a250-016bdd9f7a1e</id>
+      <masked>false</masked>
+      <name>tab</name>
+   </variable>
+</TestCaseEntity>

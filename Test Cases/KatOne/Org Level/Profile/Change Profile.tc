@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a44730c-9845-43b9-a837-1df2dd7686bf</testCaseGuid>
+   <variable>
+      <defaultValue>'https://my2.staging.katalon.com/profile'</defaultValue>
+      <description></description>
+      <id>868b6156-6bb6-4b8b-b6d6-f1bdc2fe375e</id>
+      <masked>false</masked>
+      <name>urlProfile</name>
+   </variable>
+   <variable>
+      <defaultValue>'thuy.truong@katalon.com'</defaultValue>
+      <description></description>
+      <id>bf1276f3-f1b9-4813-bd2f-3476f64d9f72</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Baothuy147@'</defaultValue>
+      <description></description>
+      <id>d1bf9b0e-3d73-4bdb-9174-0fd53d2cfe71</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

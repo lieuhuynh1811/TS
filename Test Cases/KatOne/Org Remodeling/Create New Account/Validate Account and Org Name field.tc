@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate Account and Org Name field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>750d1779-afd3-475c-bc9f-643e48e0e269</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05b93d58-e758-4f7b-8160-09550e091dd0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05b93d58-e758-4f7b-8160-09550e091dd0</id>
+      <masked>false</masked>
+      <name>invalidName</name>
+   </variable>
+</TestCaseEntity>

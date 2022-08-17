@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>SignUp</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Sign Up</source-url>
+   </source-info>
+   <taken-date>2021-10-05T11:23:04.805</taken-date>
+   <column-names>
+      <column-name>fullname</column-name>
+      <column-name>email</column-name>
+      <column-name>password</column-name>
+      <column-name>exected_case</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "linh",
+      "checked": true
+    },
+    {
+      "value": "pgialinh.iuetv+su17@gmailcom",
+      "checked": true
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": true
+    },
+    {
+      "value": "INVALID_EMAIL",
+      "checked": true
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "linh+1",
+      "checked": true
+    },
+    {
+      "value": "pgialinh.iuetv+su18@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": true
+    },
+    {
+      "value": "INVALID_NAME",
+      "checked": true
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "linh",
+      "checked": true
+    },
+    {
+      "value": "pgialinh.iuetv+su19@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "1234",
+      "checked": true
+    },
+    {
+      "value": "WRONG_PASS",
+      "checked": true
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "lan",
+      "checked": true
+    },
+    {
+      "value": "pgialinh.iuetv+su20@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": true
+    },
+    {
+      "value": "DUPPLICATE_EMAIL",
+      "checked": true
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Lee",
+      "checked": true
+    },
+    {
+      "value": "pgialinh.iuetv+9@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": true
+    },
+    {
+      "checked": true
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Xiao",
+      "checked": true
+    },
+    {
+      "value": "pgialinh.iuetv+10@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": true
+    },
+    {
+      "checked": true
+    },
+    {
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": true
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

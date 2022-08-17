@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create New Org</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6e4bf6d-e2c1-4a9b-aa8d-ca4c6a0e1f30</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>455ef065-4224-4fa0-bff2-022b4db3b033</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Org Test'</defaultValue>
+      <description></description>
+      <id>455ef065-4224-4fa0-bff2-022b4db3b033</id>
+      <masked>false</masked>
+      <name>orgName</name>
+   </variable>
+</TestCaseEntity>

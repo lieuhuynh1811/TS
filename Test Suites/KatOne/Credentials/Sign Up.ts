@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Sign Up</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1b09174a-b477-4699-b4b3-c085a98c6cdd</testSuiteGuid>
+   <testCaseLink>
+      <guid>76e24a61-1a26-4e79-a977-f0c488febfb1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/KatOne/Credentials/Sign Up/Sign Up</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>39fd5111-0fa1-4f26-aa96-1999a5a8f5c7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Sign Up</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>39fd5111-0fa1-4f26-aa96-1999a5a8f5c7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>33141b3d-c51a-4fbf-9280-4792469094db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>39fd5111-0fa1-4f26-aa96-1999a5a8f5c7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>acf53d83-1308-4642-a035-b37271fe9ee0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>31100243-aa17-44ab-8178-54c6a4df917c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>39fd5111-0fa1-4f26-aa96-1999a5a8f5c7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>exected_case</value>
+         <variableId>c4619418-5f23-4bb0-9014-c9f316b3ad0f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>39fd5111-0fa1-4f26-aa96-1999a5a8f5c7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fullname</value>
+         <variableId>dc88867c-7f15-43ab-862f-4cc08c2909cd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d87eb5c5-f363-4d8f-89c0-1964c29e3455</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

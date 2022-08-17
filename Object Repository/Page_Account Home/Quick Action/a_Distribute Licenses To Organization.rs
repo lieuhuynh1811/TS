@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Distribute Licenses To Organization</name>
+   <tag></tag>
+   <elementGuidId>0cf0a117-d7bc-4703-97c0-cc53bcaa9416</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.MuiTypography-root.MuiTypography-inherit.MuiLink-root.MuiLink-underlineAlways.jss172.css-ar6lv2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/p[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47e25dec-a4c6-459e-86fa-7d44468252db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2</value>
+      <webElementGuid>bfe98ce2-566c-4a19-9a3f-519ba548a9d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account-home</value>
+      <webElementGuid>01ae2329-784d-47e8-a334-31aa0c23df82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distribute Licenses To Organization</value>
+      <webElementGuid>1a6def0b-98aa-4a74-b7a4-50773fbd2e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss135&quot;]/div[@class=&quot;jss153&quot;]/div[@class=&quot;jss154 MuiBox-root css-0&quot;]/div[@class=&quot;jss155 MuiBox-root css-0&quot;]/div[@class=&quot;jss169 MuiBox-root css-x4dmss&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 jss171 css-1xkwv0t&quot;]/div[@class=&quot;jss170 MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 jss174 css-1ems3uu&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2&quot;]</value>
+      <webElementGuid>b96eb274-309a-4981-a5a9-2bea506a861f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>59061cf1-40cd-451f-a750-513457f28006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2</value>
+      <webElementGuid>5d18698f-5be4-41e6-a12b-e761cbb3f1e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account-home</value>
+      <webElementGuid>9e66e514-c472-4cbe-b4fd-ca57ec2beb17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Distribute Licenses To Organization</value>
+      <webElementGuid>053df91e-cc9a-4f5c-a4f1-11b253e01ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss135&quot;]/div[@class=&quot;jss153&quot;]/div[@class=&quot;jss154 MuiBox-root css-0&quot;]/div[@class=&quot;jss155 MuiBox-root css-0&quot;]/div[@class=&quot;jss169 MuiBox-root css-x4dmss&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 jss171 css-1xkwv0t&quot;]/div[@class=&quot;jss170 MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 jss174 css-1ems3uu&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways jss172 css-ar6lv2&quot;]</value>
+      <webElementGuid>3923d2bf-e8b0-4fc3-b02f-dacd4f5bc9ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/p[2]/a</value>
+      <webElementGuid>341354b1-a116-434b-b859-4e55ca17a1e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Distribute Licenses To Organization')]</value>
+      <webElementGuid>6b5a93e3-740c-4575-a266-eb1c51422847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribute Test Executions To Organization'])[1]/preceding::a[1]</value>
+      <webElementGuid>65a4ed8d-d291-48fc-822e-a8d5f1626be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Distribute Sessions To Organization'])[1]/preceding::a[2]</value>
+      <webElementGuid>4c279317-271e-4578-834e-be6e43a07fc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Distribute Licenses To Organization']/parent::*</value>
+      <webElementGuid>97e92a8b-c21f-4b24-b2fb-154d88885ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/account-home')]</value>
+      <webElementGuid>f11dedc2-97a6-4b02-bc6c-8e26c0251d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>b22401a8-4568-444f-ae59-751d6cea150a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/account-home' and (text() = 'Distribute Licenses To Organization' or . = 'Distribute Licenses To Organization')]</value>
+      <webElementGuid>8ef7caa2-7d86-4639-a87c-eebcc0f84728</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

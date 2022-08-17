@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Products and Licenses</name>
+   <tag></tag>
+   <elementGuidId>80b7de47-65bc-4f41-95b9-e7c000f9face</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.MuiTypography-root.MuiTypography-inherit.MuiLink-root.MuiLink-underlineNone.jss182.css-1b45jtj</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div[2]/div/div/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e87205fd-0ae9-4ff1-b13c-0a4960af3979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone jss182 css-1b45jtj</value>
+      <webElementGuid>8be8aa1b-1545-4f34-b5fe-ace521a2876f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://docs.katalon.com/docs/products-and-licenses/katalon-studio-enterprise-and-runtime-engine-licenses/license-overview</value>
+      <webElementGuid>e0477e18-b5a6-4f41-b5e4-c389907b65cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Products and Licenses</value>
+      <webElementGuid>d7227c34-dd76-4776-bcbb-02c517e9b425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss123&quot;]/div[@class=&quot;jss141&quot;]/div[@class=&quot;jss142 MuiBox-root css-0&quot;]/div[@class=&quot;jss163 MuiBox-root css-0&quot;]/div[@class=&quot;jss179 MuiBox-root css-x4dmss&quot;]/div[@class=&quot;jss181 MuiBox-root css-0&quot;]/div[@class=&quot;jss180 MuiBox-root css-x4dmss&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 jss184 css-1ems3uu&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone jss182 css-1b45jtj&quot;]</value>
+      <webElementGuid>c50269ab-3f63-4f60-ab51-7576485eca1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div[2]/div/div/p/a</value>
+      <webElementGuid>a148fa9f-f871-49ed-b62a-5dee335f01c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Products and Licenses')]</value>
+      <webElementGuid>3faf01e5-37ea-4887-a734-287beaa4d97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Documentation'])[1]/following::a[1]</value>
+      <webElementGuid>65210910-a3ba-4d35-a007-44ab7b8bcc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recorder'])[1]/following::a[1]</value>
+      <webElementGuid>19ba4b19-c1f8-45f5-ac07-5391e10a5860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Studio Overview'])[1]/preceding::a[1]</value>
+      <webElementGuid>8252f8d4-77cb-4053-bd0b-6790094c5f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Runtime Engine Introduction'])[1]/preceding::a[2]</value>
+      <webElementGuid>48465add-2257-4504-94ad-c05028108bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Products and Licenses']/parent::*</value>
+      <webElementGuid>473bd92c-82d0-45b4-8557-3c53690636fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://docs.katalon.com/docs/products-and-licenses/katalon-studio-enterprise-and-runtime-engine-licenses/license-overview')]</value>
+      <webElementGuid>42620c32-6b06-4c31-a551-666f84ae1b30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/p/a</value>
+      <webElementGuid>89a242da-db22-4575-8f5f-b0e54bfdb084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://docs.katalon.com/docs/products-and-licenses/katalon-studio-enterprise-and-runtime-engine-licenses/license-overview' and (text() = 'Products and Licenses' or . = 'Products and Licenses')]</value>
+      <webElementGuid>ce0fda42-adaa-4428-9ec2-18a2ad31a8a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

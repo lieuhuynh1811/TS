@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Katalon Recorder Overview</name>
+   <tag></tag>
+   <elementGuidId>dfc31248-c0c3-4195-99ad-172856a222be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[2]/div[2]/div/div[2]/p[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8414aa74-e253-49ac-8057-2c9919ddb279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone jss72 css-1b45jtj</value>
+      <webElementGuid>7cbcda01-289c-4bba-876d-d7cb4958984b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://docs.katalon.com/docs/katalon-recorder/get-started/overview</value>
+      <webElementGuid>d007e7d1-35ef-40bb-a2f7-c6a5f284a9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Recorder Overview</value>
+      <webElementGuid>53c1a90c-e3c8-468d-93f3-4154fda9bed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;jss13&quot;]/div[@class=&quot;jss31&quot;]/div[@class=&quot;jss32 MuiBox-root css-0&quot;]/div[@class=&quot;jss53 MuiBox-root css-0&quot;]/div[@class=&quot;jss69 MuiBox-root css-x4dmss&quot;]/div[@class=&quot;jss71 MuiBox-root css-0&quot;]/div[@class=&quot;jss70 MuiBox-root css-x4dmss&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body2 jss74 css-1ems3uu&quot;]/a[@class=&quot;MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone jss72 css-1b45jtj&quot;]</value>
+      <webElementGuid>0d149b46-3035-4e0c-85be-1ad457e08179</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div[2]/div/div[2]/p[3]/a</value>
+      <webElementGuid>236b0a9a-2ff3-401b-9172-7fbad30eb892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Katalon Recorder Overview')]</value>
+      <webElementGuid>27b1accd-b7d3-4987-884b-88b3fc66bba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon TestCloud Overview'])[1]/following::a[1]</value>
+      <webElementGuid>4b82283f-9639-416f-9b6c-aec50137939f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon TestOps Overview'])[1]/following::a[2]</value>
+      <webElementGuid>92a27360-9f25-4e3f-b6af-b915594e881c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon Recorder Overview']/parent::*</value>
+      <webElementGuid>2d3472dc-bd10-4491-8e17-15026e5d5258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://docs.katalon.com/docs/katalon-recorder/get-started/overview')]</value>
+      <webElementGuid>3ddcb4d3-aa53-4a42-9c88-6f01a7dcd821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[3]/a</value>
+      <webElementGuid>da0c6856-07ae-4799-8342-8bce40911f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://docs.katalon.com/docs/katalon-recorder/get-started/overview' and (text() = 'Katalon Recorder Overview' or . = 'Katalon Recorder Overview')]</value>
+      <webElementGuid>363352d0-40fc-4ba1-9e9e-0d26ab5c66cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

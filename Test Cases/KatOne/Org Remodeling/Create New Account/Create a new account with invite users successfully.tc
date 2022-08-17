@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create a new account with invite users successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cd02602-6743-4d3f-adaa-43ddcf99e087</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d832ffb-b9d9-4cc4-9d1c-97f3fb07c280</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8ef6fc0-b01f-440b-94ff-11429ccb0646</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39522869-d633-477b-a664-d1c7fbcd0a17</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['pgialinh.iuetv+2@gmail.com', 'pgialinh.iuetv+3@gmail.com']</defaultValue>
+      <description></description>
+      <id>3d832ffb-b9d9-4cc4-9d1c-97f3fb07c280</id>
+      <masked>false</masked>
+      <name>emails</name>
+   </variable>
+   <variable>
+      <defaultValue>'Account Name'</defaultValue>
+      <description></description>
+      <id>f8ef6fc0-b01f-440b-94ff-11429ccb0646</id>
+      <masked>false</masked>
+      <name>accountName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Org name'</defaultValue>
+      <description></description>
+      <id>39522869-d633-477b-a664-d1c7fbcd0a17</id>
+      <masked>false</masked>
+      <name>orgName</name>
+   </variable>
+</TestCaseEntity>

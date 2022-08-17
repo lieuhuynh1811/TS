@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Change Password</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>ea1d9523-3009-4316-9c0e-df5f0167917d</testSuiteGuid>
+   <testCaseLink>
+      <guid>2d1d5803-2004-40ad-8a95-e32edea032be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/KatOne/Credentials/Change Password/TC02_Change Password failed</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>df0a6653-8a99-4018-a672-68e8581b7e70</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ChangePassword</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>df0a6653-8a99-4018-a672-68e8581b7e70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>58d8d5f4-0ef3-4802-b3d1-af38b2e75152</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df0a6653-8a99-4018-a672-68e8581b7e70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>e8afdee8-c65c-4d07-8cb3-1c0cd7200866</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df0a6653-8a99-4018-a672-68e8581b7e70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Expected Case</value>
+         <variableId>44ea81b4-d620-4b9b-821f-878273781db0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df0a6653-8a99-4018-a672-68e8581b7e70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Current Password</value>
+         <variableId>c9dcd1c1-a1fc-4caf-9f1f-b8c00024d3e7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df0a6653-8a99-4018-a672-68e8581b7e70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>New Password</value>
+         <variableId>f266486f-9754-4b2f-8356-de61c86280bb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>df0a6653-8a99-4018-a672-68e8581b7e70</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Confirm Password</value>
+         <variableId>85913150-7151-4844-90f9-28ff3f06852d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d3ebb164-53df-480c-8336-80b358f4385f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/KatOne/Credentials/Change Password/TC01_Change Password successfully</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c4ad81dc-92ca-4e22-862f-5b414d6c5a5f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f2a049e7-5e21-433c-a5d4-a4eff27a624b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c39a71bf-54cb-4420-beff-940843cec40b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>39f81578-2d9d-4444-a3b8-7777018de2cb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2b64eba4-36dd-4dde-b542-e2015fc7ae6d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f7c438e8-0100-40e4-b555-39847d201c2b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

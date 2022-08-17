@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Account Member canot access Account Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4527ed3d-2efe-486f-a688-401e26ee7670</testCaseGuid>
+</TestCaseEntity>

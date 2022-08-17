@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create New Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71115d54-2e7b-449a-be73-9566614e3100</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e404cbe-485e-496e-9a11-9d981bc37c18</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee171c01-1218-447a-9c6e-38991e8ce088</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b96f859-8509-4f0d-9644-d3b08aa78aa5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e404cbe-485e-496e-9a11-9d981bc37c18</id>
+      <masked>false</masked>
+      <name>accountName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee171c01-1218-447a-9c6e-38991e8ce088</id>
+      <masked>false</masked>
+      <name>orgName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b96f859-8509-4f0d-9644-d3b08aa78aa5</id>
+      <masked>false</masked>
+      <name>emails</name>
+   </variable>
+</TestCaseEntity>

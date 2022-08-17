@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Login</source-url>
+   </source-info>
+   <taken-date>2021-08-09T10:58:58.043</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+      <column-name>Expected Case</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "pgialinh.iuetv+3@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "abcd@1234",
+      "checked": false
+    },
+    {
+      "value": "FAILED",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "linh.phan+2@katalon.com",
+      "checked": false
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": false
+    },
+    {
+      "value": "FAILED",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "linh.phan+1@katalon.com",
+      "checked": false
+    },
+    {
+      "value": "123456789",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "linh.phan+2@katalon.com",
+      "checked": false
+    },
+    {
+      "value": "123456789",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "pgialinh.iuetv+1@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "pgialinh.iuetv+2@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "pgialinh.iuetv+3@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "Abcd@1234",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "value": "EMPTY",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "checked": false
+    },
+    {
+      "value": "123",
+      "checked": false
+    },
+    {
+      "value": "EMPTY_EMAIL",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "a@a",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "value": "EMPTY_PASS",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "a",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "value": "WRONG_EMAIL",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "@",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "value": "WRONG_EMAIL",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "@a",
+      "checked": false
+    },
+    {
+      "checked": false
+    },
+    {
+      "value": "WRONG_EMAIL",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

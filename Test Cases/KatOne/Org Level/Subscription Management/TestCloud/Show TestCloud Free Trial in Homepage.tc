@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Show TestCloud Free Trial in Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>750645f3-7001-4132-b9e7-21dbdb7a2ca5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ed401be-fd80-49cc-a308-9ee66aab7786</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test TC Free Trial'</defaultValue>
+      <description></description>
+      <id>4ed401be-fd80-49cc-a308-9ee66aab7786</id>
+      <masked>false</masked>
+      <name>orgName</name>
+   </variable>
+</TestCaseEntity>

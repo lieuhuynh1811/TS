@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Show Pending Invitation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96de91fd-edb9-449a-b002-b1d16d64ad42</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00e5a220-ee1b-4ecd-86d6-8a93eea2009b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfea3e1e-1fcf-4d6c-838a-3adbdd6cd6fc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'336373'</defaultValue>
+      <description></description>
+      <id>00e5a220-ee1b-4ecd-86d6-8a93eea2009b</id>
+      <masked>true</masked>
+      <name>orgId</name>
+   </variable>
+   <variable>
+      <defaultValue>['pgialinh.iuetv+a3@gmail.com', 'pgialinh.iuetv+a2@gmail.com']</defaultValue>
+      <description></description>
+      <id>dfea3e1e-1fcf-4d6c-838a-3adbdd6cd6fc</id>
+      <masked>false</masked>
+      <name>emails</name>
+   </variable>
+</TestCaseEntity>

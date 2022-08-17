@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Role</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>809482ce-2046-4f87-b264-ce5ca48d0f44</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.owner_mail</defaultValue>
+      <description></description>
+      <id>d8cf956f-fb96-47ca-ac59-0e017bc277dd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_pass</defaultValue>
+      <description></description>
+      <id>01248226-0103-4ff0-a10d-4f8bec4b6e2d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.owner_orgId</defaultValue>
+      <description></description>
+      <id>1095c73a-ffd8-4684-8174-aaffdb32d6ca</id>
+      <masked>false</masked>
+      <name>orgId</name>
+   </variable>
+   <variable>
+      <defaultValue>['pgialinh.iuetv+13@gmail.com', 'pgialinh.iuetv+15@gmail.com', 'pgialinh.iuetv+9@gmail.com']</defaultValue>
+      <description></description>
+      <id>3a0a732b-b1dc-4985-b7b0-57f6cb537037</id>
+      <masked>false</masked>
+      <name>emailList</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.ADMIN</defaultValue>
+      <description></description>
+      <id>1c5404a6-4d0e-428e-90d7-27a90a16d887</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+</TestCaseEntity>
